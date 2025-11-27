@@ -36,10 +36,11 @@
   <p aline="center">
   <a href="https://www.linkedin.com/in/vipin-jaiswal-b4516b280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vipinjaiswal500/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    
+ <a href="https://leetcode.com/u/vipinjaiswal500/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
+
 
   <a href="mailto:vipin78040@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
