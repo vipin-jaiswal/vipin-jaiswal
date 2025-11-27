@@ -2,7 +2,7 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="vipin.png" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
+  <img src="manishkumar.png" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Jaiswal 🇮🇳</h1>
@@ -19,7 +19,7 @@
 - 🌱 Currently learning *ML Algorithms* & exploring *AI concepts*  
 - 💬 Ask me about *Machine Learning, Prompt Engineering, Web Development*  
 - 🚀 Love *turning ideas into real-world projects*  
-- 🛠 Skilled in *React, TailwindCSS, Node.js, Java*  
+- 🛠 Skilled in *React, Tailwind, Node.js, Java*  
 - 📚 Always eager to *learn & explore new tech*  
 - 🤝 Open to *collaborations in AI/ML & modern web dev*  
 - 📫 Reach me at: *vipin78040@gmail.com*
@@ -54,11 +54,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### 🚀 Web Development  
+### 🚀 Web Dev  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚡ Backend & Database  
+### ⚡ Backend & DB  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,22 +72,22 @@
 ## 📌 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/vipin-jaiswal/Multiple-Disease-Prediction" style="display:inline-block; margin:5px;">
-    <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=Multiple-Disease-Prediction&theme=react&hide_border=true" />
-  </a>
+  <a href="https://github.com/vipin-jaiswal/Multiple-Disease-Prediction">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=Multiple-Disease-Prediction&theme=react&hide_border=true" />
+</a>
 
-  <a href="https://github.com/vipin-jaiswal/birds_species_classification" style="display:inline-block; margin:5px;">
-    <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_classification&theme=react&hide_border=true" />
+  <a href="https://github.com/vipin-jaiswal/birds_species_clasification.git">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_clasification&theme=react&hide_border=true" />
   </a>
-
-  <a href="https://github.com/vipin-jaiswal/AI-INVOICE-GENERATOR" style="display:inline-block; margin:5px;">
-    <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=AI-INVOICE-GENERATOR&theme=react&hide_border=true" />
+    <a href="https://github.com/vipin-jaiswal/AI-INVOICE-GENRATOR.git">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=AI-INVOICE-GENRATOR&theme=react&hide_border=true" />
   </a>
-
-  <a href="https://github.com/vipin-jaiswal/movie_app" style="display:inline-block; margin:5px;">
-    <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
+    <a href="https://github.com/vipin-jaiswal/movie_app.git">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
   </a>
 </p>
+
+
 
 ---
 
