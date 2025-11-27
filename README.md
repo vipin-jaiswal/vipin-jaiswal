@@ -76,8 +76,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=Multiple-Disease-Prediction&theme=react&hide_border=true" />
 </a>
 
-  <a href="https://github.com/kumarmanish562/PORTFOLIO_Mk">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=PORTFOLIO_Mk&theme=react&hide_border=true" />
+  <a href="https://github.com/vipin-jaiswal/birds_species_clasification.git">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_clasification&theme=react&hide_border=true" />
   </a>
 </p>
 
