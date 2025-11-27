@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/vipin-jaiswal/Multiple-Disease-Prediction">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=disney_clone_frontend&theme=react&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=disney_clone_frontend&theme=react&hide_border=true" />
   </a>
 
   <a href="https://github.com/vipin-jaiswal/birds_species_clasification.git">
