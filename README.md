@@ -22,10 +22,10 @@
 - 🌱 Currently learning *ML Algorithms* & diving deep into *AI concepts*  
 - 💬 Ask me about *Machine Learning, Prompt Engineering, Web Development*  
 - 🚀 Love *turning ideas into real-world projects*  
-- 🛠 Skilled in *React, Tailwind, Node.js, Express*  
+- 🛠 Skilled in *React, Tailwind, Node.js, java*  
 - 📚 Always eager to *learn & explore new tech*  
 - 🤝 Open to *collaborations in AI/ML & modern web dev*  
-- 📫 Reach me at: *qmanishkumar562@gmail.com*
+- 📫 Reach me at: *vipin78040@gmail.com*
 
 ---
 
