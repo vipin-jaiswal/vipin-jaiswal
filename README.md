@@ -89,9 +89,7 @@
   <a href="https://github.com/vipin-jaiswal/movie_app.git">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/kumarmanish562/gamer_platform">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=gamer_platform&theme=react&hide_border=true" />
-  </a>
+  
 </p>
 
 ---
@@ -99,8 +97,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarmanish562&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish562&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin-jaiswal&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-jaiswal&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
 </p>
 
 <p align="center">
