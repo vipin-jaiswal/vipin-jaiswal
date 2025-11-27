@@ -2,10 +2,10 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="manishkumar.png" alt="Manish Kumar" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
+  <img src="manishkumar.png" alt="Vipin jaiswal" width="1000" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manish Kumar 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Vipin Jaiswal 🇮🇳</h1>
 <h3 align="center">💡 Problem Solver | 🚀 Tech Explorer | 🤝 Open to Collaborations</h3>
 
 <p align="center">
