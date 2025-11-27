@@ -34,17 +34,17 @@
 <!-- ============================== -->
 ## 🔗 Explore More  
 
-<p align="center">
-  <a href="https://kumarmanish562.github.io/PORTFOLIO_Mk/">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/vipin-jaiswal-b4516b280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manishkumar562/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:qmanishkumar562@gmail.com">
+  <a href="mailto:vipin78040@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/itz_kumar_manish_561/">
+  <a href="https://www.instagram.com/kittu_jaiswal_01/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
