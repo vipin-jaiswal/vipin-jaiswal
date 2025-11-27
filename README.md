@@ -77,17 +77,19 @@
 
 <p align="center">
   <a href="https://github.com/vipin-jaiswal/Multiple-Disease-Prediction">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=Multiple-Disease-Prediction&theme=react&hide_border=true" />
-</a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=Multiple-Disease-Prediction&theme=react&hide_border=true" />
+  </a>
 
   <a href="https://github.com/vipin-jaiswal/birds_species_clasification.git">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_clasification&theme=react&hide_border=true" />
   </a>
-    <a href="https://github.com/vipin-jaiswal/AI-INVOICE-GENRATOR.git">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=AI-INVOICE-GENRATOR&theme=react&hide_border=true" />
+
+  <a href="https://github.com/vipin-jaiswal/AI-INVOICE-GENRATOR.git">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=AI-INVOICE-GENRATOR&theme=react&hide_border=true" />
   </a>
-    <a href="https://github.com/vipin-jaiswal/movie_app.git">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
+
+  <a href="https://github.com/vipin-jaiswal/movie_app.git">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
   </a>
 </p>
 
