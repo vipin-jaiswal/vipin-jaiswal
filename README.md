@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarmanish562&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin-jaiswal&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## ⚡ Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmanish562&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-jaiswal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
