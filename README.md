@@ -9,8 +9,12 @@
 <h3 align="center">💡 Problem Solver | 🚀 Tech Explorer | 🤝 Open to Collaborations</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=600&lines=Welcome+to+my+GitHub!;DevOps+Learner+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer+%7C+Prompt+Engineer;Always+Learning+%7C+Building+%7C+Sharing" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Full+Stack+Developer+%7C+Prompt+Engineer;Always+Learning+%7C+Building+%7C+Sharing" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 ---
 
