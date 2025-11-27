@@ -85,6 +85,10 @@
   <a href="https://github.com/vipin-jaiswal/AI-INVOICE-GENRATOR.git">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=AI-INVOICE-GENRATOR&theme=react&hide_border=true" />
   </a>
+<p align="center">
+  <a href="https://github.com/vipin-jaiswal/movie_app.git">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=movie_app&theme=react&hide_border=true" />
+  </a>
   <a href="https://github.com/kumarmanish562/gamer_platform">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarmanish562&repo=gamer_platform&theme=react&hide_border=true" />
   </a>
