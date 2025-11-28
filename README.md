@@ -2,7 +2,8 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="vipin-jaiswal.jpg" alt="Vipin Jaiswal" width="120" style="border-radius: 50%; border: 4px solid #00FFFF;" />
+  <img src="vipin-jaiswal.jpg"alt="Vipin Jaiswal" width="120" height="120" style="border-radius: 50%; object-fit: cover; border: 4px solid #00FFFF;" 
+  />
   
 </p>
 
