@@ -2,7 +2,7 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="manishkumar.png" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
+  <img src="vipinjaiswal.png" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Jaiswal 🇮🇳</h1>
@@ -109,17 +109,19 @@
 
 ---
 
-## ⚡ Contribution Graph  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-jaiswal&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ## ⚡snack Game  
 
 <p align="center">
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## ⚡ Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-jaiswal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
