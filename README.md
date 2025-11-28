@@ -101,8 +101,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-jaiswal&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin-jaiswal&theme=tokyonight" height="180px"/>
+<p align="center"> <img 
+     <img src="https://github-readme-streak-stats-eight.vercel.app?user=vipin-jaiswal&theme=tokyonight" height="180px"/>
+  />
 </p>
 
 ---
