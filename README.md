@@ -1,11 +1,7 @@
 <!-- ============================== -->
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
-<p align="center">
-  <img src="vipin-jaiswal.jpg"alt="Vipin Jaiswal" width="120" height="120" style="border-radius: 50%; object-fit: cover; border: 4px solid #00FFFF;" 
-  />
-  
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Vipin Jaiswal 🇮🇳</h1>
 <h3 align="center">💡 Problem Solver | 🚀 Tech Explorer | 🤝 Open to Collaborations</h3>
