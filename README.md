@@ -99,7 +99,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin-jaiswal&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin-jaiswal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-jaiswal&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
 </p>
 
@@ -113,6 +113,13 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-jaiswal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+## ⚡snack Game  
+
+<p align="center">
+   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 ---
