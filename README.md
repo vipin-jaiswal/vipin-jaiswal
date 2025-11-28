@@ -2,7 +2,7 @@
 <!-- 🌟 Hero Section -->
 <!-- ============================== -->
 <p align="center">
-  <img src="vipinjaiswal.png" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
+  <img src="vipin-jaiswal.jpg" alt="Vipin Jaiswal" width="200" style="border-radius:50%; border: 4px solid #00FFFF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Jaiswal 🇮🇳</h1>
